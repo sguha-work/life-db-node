@@ -1,0 +1,17 @@
+{
+  "name": "life-db",
+  "version": "0.0.1",
+  "description": "A flat file JSON database,no-sql formatted, ligtweight, fast",
+  "main": "life-db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "database",
+    "json",
+    "flat-file",
+    "no-sql"
+  ],
+  "author": "Sahasrangshu Guha",
+  "license": "MIT"
+}
