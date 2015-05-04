@@ -1,2 +1,3 @@
 var lifedb = require('life-db');
-var instance = lifedb.init('test-db');
+lifedb.init('test-db');
+//lifedb.insert('test-db','test-page', {});
